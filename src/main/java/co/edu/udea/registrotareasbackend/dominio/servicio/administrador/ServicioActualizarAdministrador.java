@@ -1,7 +1,6 @@
 package co.edu.udea.registrotareasbackend.dominio.servicio.administrador;
 
 import co.edu.udea.registrotareasbackend.dominio.Administrador;
-;
 import co.edu.udea.registrotareasbackend.infraestructura.persistencia.builder.AdministradorBuilder;
 import co.edu.udea.registrotareasbackend.infraestructura.persistencia.repositorio.RepositorioAdministrador;
 import org.springframework.stereotype.Component;
